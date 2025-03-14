@@ -20,7 +20,7 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.pranay_varakala.MindCare"
+      "package": ""
     },
     "web": {
       "bundler": "metro",
